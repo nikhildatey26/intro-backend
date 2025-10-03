@@ -1,0 +1,16 @@
+{
+  "name": "nikhil",
+  "version": "1.0.0",
+  "description": "\"first code\"",
+  "keywords": [
+    "javasccript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "nikhil datey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
